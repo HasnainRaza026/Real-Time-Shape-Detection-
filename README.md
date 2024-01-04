@@ -53,6 +53,8 @@ import numpy as np
 
 ## Demo
 
+https://github.com/HasnainRaza026/Real-Time-Shape-Detection-/assets/138324430/e9d18fac-b540-468d-977b-1f78ab5633e0
+
 
 
 ## Resourses
