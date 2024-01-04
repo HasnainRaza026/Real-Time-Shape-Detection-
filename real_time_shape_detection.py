@@ -77,6 +77,7 @@ while True:
     frame_blur = cv2.GaussianBlur(frame, (7,7), 1)
     frame_gray = cv2.cvtColor(frame_blur, cv2.COLOR_BGR2GRAY)
 
+    # Function takes input image and outputs an image containing only edges
     # 200, 200 are the calibrated Threshold values (get using trackbars)
     fram_canny = cv2.Canny(frame_gray, 200, 200)
 
